@@ -39,6 +39,11 @@ df = spark.read.parquet("Files/sales_data (1)/part-00000-547f59a3-42b7-4b22-8029
 # df now is a Spark DataFrame containing parquet data from "Files/sales_data (1)/part-00000-547f59a3-42b7-4b22-8029-e6cefe361e27-c000.snappy.parquet".
 display(df)
 
+
+
+
+
+
 # METADATA ********************
 
 # META {
